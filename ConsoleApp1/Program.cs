@@ -18,7 +18,8 @@
 
         trida.VypisStudenty();
         trida.TridniKniha.VypisDochazku(s1);
-    }
-            
+        
         }
+            
     }
+}
